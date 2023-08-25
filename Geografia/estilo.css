@@ -1,0 +1,69 @@
+body{
+    background: #d2d2c1 url('imagens/fundo.png');
+    font: 18px Arial, Helvetica, sans-serif;
+    }
+
+#capa{
+    width: 1835px;
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 16px;
+    text-align: center;
+    width: 1780px;
+    margin: 10px;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 20px;
+}
+
+#resumo{
+    background: #e8e8d9;
+    padding: 10px;
+    width: 890px;
+    float: right;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#resumo2{
+    background: #e8e8d9;
+    padding: 10px;
+    width: 890px;
+}
+
+#etnias{
+    background: #e8e8d9;
+    padding: 10px;
+    border: 10px solid #c3c3ae;
+}
+
+#foto1{
+    border: 10px solid #c3c3ae;
+    width: 550px;
+}
+
+#foto2{
+    border: 10px solid #c3c3ae;
+    width: 550px;
+}
+
+#p1{
+    width: 1200px;
+    float: right;
+}
+
+
+
+#rodape{
+    text-align: center;
+    float: center ;
+}
